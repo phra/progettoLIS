@@ -1,0 +1,7 @@
+/test-classes
+*.rpc
+*.txt
+gwt-unitCache/*
+war/indiecode_sweng2013/*
+war/WEB-INF/*
+./.classpath
